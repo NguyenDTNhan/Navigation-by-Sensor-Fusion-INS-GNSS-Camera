@@ -5,5 +5,4 @@ This repository introduces the Pedestrian and Vehicle Navigation implemented bas
 The functions in this repository requires module "3-D geographic coordinate conversions and geodesy" which can be found at https://github.com/geospace-code/pymap3d
 
 # The Quaternion library
-
-
+The requirement
